@@ -1,0 +1,39 @@
+.jumbotron{
+	background: #c1945b;
+}
+.styles_form{
+	border-radius: 15px;
+	border: 1px solid #7399ff;
+	padding: 5px;
+	text-align: center;
+	padding-left: 10px
+}
+.btn_form{
+	padding: 5px;
+	width: 200px;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	background-color: #0c4978
+} 
+ header li a{
+ 	font-weight: 500
+ }
+ .carousel-item img{
+ 	height: 70vh;
+ 	object-fit: cover;
+ }
+ .content_img{
+ 	display: black;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+ .content{
+ 	text-align: center;
+ 	margin-bottom: 80px;
+ 	font-size: 18px
+ 	font-weight:400;
+ 	color: #656565;
+ 	line-height: 30px;
+
+ }
